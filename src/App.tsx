@@ -32,7 +32,7 @@ import { motion, AnimatePresence } from 'motion/react';
 // ============================================
 const CONFIG = {
   companyName: 'Fürst',
-  companyNameFull: 'Fürst Schädlingsbekämpfung',
+  companyNameFull: 'Fürst Schädlings­bekämpfung',
   companyLegalName: 'Fürst Schädlingsbekämpfung',
   tagline: 'Schädlingsbekämpfung ist seit über 30 Jahren unser Geschäft',
   phone: '(07231) 425 60 77',
